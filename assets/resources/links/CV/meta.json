@@ -1,0 +1,13 @@
+{
+    "title": "CV",
+    "description": "Last updated on 2025/Oct/5.",
+    "project_type": "links",
+    "src_file": "CV.pdf",
+    "portfolio_src": [
+        "../links/CV/Fig1.png"
+    ],
+    "portfolio_marker": [
+        "CV"
+    ],
+    "portfolio_marker_highlight": []
+}

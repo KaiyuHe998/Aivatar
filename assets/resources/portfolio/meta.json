@@ -1,0 +1,47 @@
+{
+	"title": "Home page",
+	"description": "Portfolio home page with projects and publications cards.",
+	"project_type": "html",
+	"_keywords": {
+		"Projects": {
+			"description": "Projects section on the home page.",
+			"style": { "fill": "#4CAF50", "fontStyle": "italic" }
+		},
+		"Publications": {
+			"description": "Publications section on the home page.",
+			"style": { "fill": "#4CAF50", "fontStyle": "italic" }
+		},
+		"Abductive Reasoning Evaluation": {
+			"description": "Publication card.",
+			"style": { "fill": "#4CAF50", "fontStyle": "italic" }
+		},
+		"Eifficient RAG": {
+			"description": "Publication card.",
+			"style": { "fill": "#4CAF50", "fontStyle": "italic" }
+		},
+		"LLM hypothesis discovery survey": {
+			"description": "Publication card.",
+			"style": { "fill": "#4CAF50", "fontStyle": "italic" }
+		},
+		"Contact tracing": {
+			"description": "Publication card.",
+			"style": { "fill": "#4CAF50", "fontStyle": "italic" }
+		},
+		"IDEA": {
+			"description": "Publication card.",
+			"style": { "fill": "#4CAF50", "fontStyle": "italic" }
+		},
+		"Space simulator": {
+			"description": "Project card.",
+			"style": { "fill": "#4CAF50", "fontStyle": "italic" }
+		},
+		"EMO chat bot": {
+			"description": "Project card.",
+			"style": { "fill": "#4CAF50", "fontStyle": "italic" }
+		},
+		"Battle-Royale game": {
+			"description": "Project card.",
+			"style": { "fill": "#4CAF50", "fontStyle": "italic" }
+		}
+	}
+}

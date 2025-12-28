@@ -1,0 +1,13 @@
+{
+    "title": "Github",
+    "description": "This Aivatar project is on my github and open sourced!",
+    "project_type": "links",
+    "src_file": "https://github.com/KaiyuHe998",
+    "portfolio_src": [
+        "../links/Github/Fig1.png"
+    ],
+    "portfolio_marker": [
+        "Github"
+    ],
+    "portfolio_marker_highlight": []
+}

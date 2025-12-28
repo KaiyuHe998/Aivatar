@@ -1,0 +1,13 @@
+{
+    "title": "Linkedin",
+    "description": "Connect with me on Linkedin!",
+    "project_type": "links",
+    "src_file": "https://www.linkedin.com/in/kaiyuhe998/",
+    "portfolio_src": [
+        "../links/Linkedin/Fig1.png"
+    ],
+    "portfolio_marker": [
+        "Linkedin"
+    ],
+    "portfolio_marker_highlight": []
+}

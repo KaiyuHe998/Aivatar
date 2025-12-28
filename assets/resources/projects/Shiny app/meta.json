@@ -1,0 +1,20 @@
+{
+    "description": "This is a project using shiny building online interactive data visualization for drug use data in US. The data is from National Survey on Drug Use and Health (NSDUH) which is an annual survey conducted by the Substance Abuse and Mental Health Services Administration (SAMHSA). The project is still ongoing and more features will be added in the future.",
+    "project_type": "outside link",
+    "src_file": "https://meanstudent.shinyapps.io/new_shiny/",
+    "portfolio_src": [
+        "../projects/Shiny app/Fig1.png",
+        "../projects/Shiny app/Fig2.png",
+        "../projects/Shiny app/Fig3.png"
+    ],
+    "portfolio_marker": [
+        "Drag use",
+        "Data visualization",
+        "Shiny",
+        "R"
+    ],
+    "portfolio_marker_highlight": [
+        "Shiny app"
+    ],
+    "title": "Shiny app"
+}

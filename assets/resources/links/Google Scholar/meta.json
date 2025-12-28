@@ -1,0 +1,13 @@
+{
+    "title": "Google Scholar",
+    "description": "Current citations: 20",
+    "project_type": "links",
+    "src_file": "https://scholar.google.com/citations?hl=zh-CN&user=afzTrgEAAAAJ",
+    "portfolio_src": [
+        "../links/Google Scholar/Fig1.png"
+    ],
+    "portfolio_marker": [
+        "Google Scholar"
+    ],
+    "portfolio_marker_highlight": []
+}

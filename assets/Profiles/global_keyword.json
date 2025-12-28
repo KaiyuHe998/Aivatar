@@ -1,0 +1,9 @@
+[
+    {"word":"magic", "style": {"fill":"#42a5f5","fontStyle":"italic"}, "onClick":"() => console.log('Magic clicked!')"},
+    {"word":"attack", "style": {"fill":"#ff7043","fontStyle":"bold"}, "onClick":"() => console.log('Attack clicked!')"},
+    {"word":"何开宇", "style": {"fill":"#405dd0ff","fontStyle":"bold"}, "onClick":"() => console.log('Clicked my name')"},
+    {"word":"non interactive keyword", "style": {"fill":"#405dd0ff","fontStyle":"bold"}, "onClick":"null"},
+    {"word":">>>", "style": {"fill":"#FF4444","fontStyle":"bold","fontSize":"20px","fontWeight":"900"}, "onClick":"() => { if (window.gameScene && window.gameScene.player_1 && window.gameScene.player_1.decide) { window.gameScene.player_1.decide.skipCurrentWait(); } else { console.log('Skip wait clicked but decide module not accessible'); } }"},
+    {"word":"✅", "style": {"fill":"#4CAF50","fontStyle":"bold","fontSize":"18px","fontWeight":"900"}, "onClick":"() => { if (window.gameScene && window.gameScene.player_1 && window.gameScene.player_1.decide) { window.gameScene.player_1.decide.handleUserConfirmation(true); } else { console.log('Confirmation clicked but decide module not accessible'); } }"},
+    {"word":"❌", "style": {"fill":"#F44336","fontStyle":"bold","fontSize":"18px","fontWeight":"900"}, "onClick":"() => { if (window.gameScene && window.gameScene.player_1 && window.gameScene.player_1.decide) { window.gameScene.player_1.decide.handleUserConfirmation(false); } else { console.log('Rejection clicked but decide module not accessible'); } }"}
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Abductive Reasoning Evaluation",
+        "project_type": "pdf",
+        "file_path": "/assets/resources/publications/Abductive Reasoning Evaluation/Abduction Reasoning Evaluation.pdf"
+    },
+    {
+        "title": "Eifficient RAG",
+        "project_type": "pdf",
+        "file_path": "/assets/resources/publications/Eifficient RAG/Eifficient RAG.pdf"
+    },
+    {
+        "title": "LLM hypothesis discovery survey",
+        "project_type": "pdf",
+        "file_path": "/assets/resources/publications/LLM hypothesis discovery survey/reasoning_survey_paper.pdf"
+    },
+    {
+        "title": "Contact tracing",
+        "project_type": "pdf",
+        "file_path": "/assets/resources/publications/Contact tracing/contact_tracing_paper.pdf"
+    },
+    {
+        "title": "IDEA",
+        "project_type": "pdf",
+        "file_path": "/assets/resources/publications/IDEA/IDEA_paper.pdf"
+    },
+    {
+        "title": "Shiny app",
+        "project_type": "outside link",
+        "file_path": "https://meanstudent.shinyapps.io/new_shiny/"
+    },
+    {
+        "title": "EMO chat bot",
+        "project_type": "pdf",
+        "file_path": "/assets/resources/projects/EMO chat bot/EMO chat bot.pdf"
+    },
+    {
+        "title": "Battle-Royale game",
+        "project_type": "outside link",
+        "file_path": "https://garythekid.github.io/project-topdownPixel.html"
+    },
+    {
+        "title": "Google Scholar",
+        "project_type": "outside link",
+        "file_path": "https://scholar.google.com/citations?hl=zh-CN&user=afzTrgEAAAAJ"
+    },
+    {
+        "title": "Github",
+        "project_type": "outside link",
+        "file_path": "https://github.com/KaiyuHe998"
+    },
+    {
+        "title": "Linkedin",
+        "project_type": "outside link",
+        "file_path": "https://www.linkedin.com/in/kaiyuhe998/"
+    },
+    {
+        "title": "Home page",
+        "project_type": "html",
+        "file_path": "/assets/resources/portfolio/portfolio.html"
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "Abductive Reasoning Evaluation": "提出面向溯因推理（Abduction）的通用、自动化、透明且无需金标准标签的评测框架 GEAR，从三大维度对一组假设进行评价：一致性（Consistency）、可泛化性（Generalizability）与多样性（Diversity）。基于四个常用数据集（MINI-ARC、ACRE、LIST FUNCTIONS、ARC-2025）与九个LLM，共生成 50,340 个候选假设并开展细粒度比较；结果显示金标准式评测易掩盖多解性，且大模型并不必然带来更高的多样性。进一步提出“动量式课程学习”策略，利用 GEAR 衍生的训练信号在无金标监督下提升一致性、可泛化性与多样性，并把收益迁移到现有溯因基准。",
+    "Eifficient RAG": "提出 HiPRAG：一种分层过程奖励（hierarchical process rewards）用于高效 Agentic RAG 的训练框架。通过将推理轨迹解析为离散步骤，并在答案正确与格式合规的前提下，对每个搜索/非搜索步骤的「最优性」给予额外奖励，从而同时降低 over-search 与 under-search，比强基线在 7 个 QA 基准上取得更高准确率并显著提升搜索效率。",
+    "LLM hypothesis discovery survey": "本综述以皮尔斯（Peirce）的溯因–演绎–归纳三段式为主线，系统梳理了 假设发现/规则学习在LLM中的研究版图：分别综述了假设生成（溯因）、假设应用（演绎）、假设验证（归纳）的代表方法、评测与局限，并进一步讨论了将三者整合为迭代闭环以实现真正的从推理到学习的研究方向。Kaiyu He/何开宇为这篇论文的第一作者",
+    "Contact tracing": "研究纽约市在 2020-10-01 至 2021-05-10 期间 COVID-19 案例调查电话访谈的完成率（79.4%），采用对数二项回归和随机森林分析年龄、拨打时间段及邮编层面的人口与社会经济因素的影响，并通过反事实实验评估基于模型选择拨打时间对提升完成率的潜在收益（全市平均 +1.2%，部分邮编最高 +7.8%）。",
+    "IDEA": "使用了皮尔斯的对于reasoning的定义, Abduction, Deduction, Induction 促进LLM agent学习和掌握新知识的能力,主要目的想要探究目前的LLM是否真的具有像人类一样自主探索发现新的知识的能力,我是这篇论文的第一作者，完成了所有的论文写作与实验。",
+    "Shiny app": "This is a project using shiny building online interactive data visualization for drug use data in US. The data is from National Survey on Drug Use and Health (NSDUH) which is an annual survey conducted by the Substance Abuse and Mental Health Services Administration (SAMHSA). The project is still ongoing and more features will be added in the future.",
+    "Space simulator": "一个基于物理引擎的 3D 星系模拟器，允许用户探索和交互多个星球，所有的物体互动都使用物理引擎。还原真实的弹弓效应，驾驶飞船探索宇宙，不过当前这个项目还处于开发中，预计完成时间未定，目前只有我独自一人开发的，我是主要开发人员。",
+    "EMO chat bot": "这是一款“会读心还会嘴硬”的聊天机器人项目，灵感来自Representation Engineering (RepE) 技术，但我们加料：情绪数据、真假判别、角色扮演，目的就是让LLM既能安慰你，也能在你调侃它时原地开喷🤬。通过PCA提取语义向量，直接操纵模型内部状态，让它像开EQ调音台一样随时切换心情，既能温柔细语，也能Joker式阴阳怪气。",
+    "Battle-Royale game": "该项目是一款 Top‑down 2D 像素风格的多人在线派对类 Battle‑royale 游戏，目前仍在持续开发中，由 Spectrum Forge 游戏开发社区 共同设计和构建，其创作者“Chongyang”领导该社区开展相关工作。我在这个项目中担任玩法设计师",
+    "Google Scholar": "My Google Scholar profile, showcasing my academic publications and citations.",
+    "Github": "My github repo, let them know this Aivatar project is on my github and open sourced on my github.",
+    "CV": "Just a regular CV file. You could open that if user want to download it. Last updated on 2025/Oct/5.",
+    "Linkedin": "My Linkedin profile, showcasing my professional experience and network."
+}
