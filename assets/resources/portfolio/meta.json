@@ -2,46 +2,70 @@
 	"title": "Home page",
 	"description": "Portfolio home page with projects and publications cards.",
 	"project_type": "html",
-	"_keywords": {
+	"_chapters": {
 		"Projects": {
 			"description": "Projects section on the home page.",
-			"style": { "fill": "#4CAF50", "fontStyle": "italic" }
+			"style": { "fill": "#c86e39ff", "fontStyle": "italic" }
 		},
 		"Publications": {
 			"description": "Publications section on the home page.",
-			"style": { "fill": "#4CAF50", "fontStyle": "italic" }
+			"style": { "fill": "#c86e39ff", "fontStyle": "italic" }
+		},
+		"Links": {
+			"description": "Other links like linkedin github on the home page.",
+			"style": { "fill": "#c86e39ff", "fontStyle": "italic" }
 		},
 		"Abductive Reasoning Evaluation": {
 			"description": "Publication card.",
-			"style": { "fill": "#4CAF50", "fontStyle": "italic" }
+			"style": { "fill": "#c86e39ff", "fontStyle": "italic" }
 		},
 		"Eifficient RAG": {
 			"description": "Publication card.",
-			"style": { "fill": "#4CAF50", "fontStyle": "italic" }
+			"style": { "fill": "#c86e39ff", "fontStyle": "italic" }
 		},
 		"LLM hypothesis discovery survey": {
 			"description": "Publication card.",
-			"style": { "fill": "#4CAF50", "fontStyle": "italic" }
+			"style": { "fill": "#c86e39ff", "fontStyle": "italic" }
 		},
 		"Contact tracing": {
 			"description": "Publication card.",
-			"style": { "fill": "#4CAF50", "fontStyle": "italic" }
+			"style": { "fill": "#c86e39ff", "fontStyle": "italic" }
 		},
 		"IDEA": {
 			"description": "Publication card.",
-			"style": { "fill": "#4CAF50", "fontStyle": "italic" }
+			"style": { "fill": "#c86e39ff", "fontStyle": "italic" }
 		},
 		"Space simulator": {
 			"description": "Project card.",
-			"style": { "fill": "#4CAF50", "fontStyle": "italic" }
+			"style": { "fill": "#c86e39ff", "fontStyle": "italic" }
 		},
 		"EMO chat bot": {
 			"description": "Project card.",
-			"style": { "fill": "#4CAF50", "fontStyle": "italic" }
+			"style": { "fill": "#c86e39ff", "fontStyle": "italic" }
 		},
 		"Battle-Royale game": {
 			"description": "Project card.",
-			"style": { "fill": "#4CAF50", "fontStyle": "italic" }
+			"style": { "fill": "#c86e39ff", "fontStyle": "italic" }
+		},
+		"Shiny app": {
+			"description": "Project card.",
+			"style": { "fill": "#c86e39ff", "fontStyle": "italic" }
+		},
+		"CV": {
+			"description": "Links card.",
+			"style": { "fill": "#c86e39ff", "fontStyle": "italic" }
+		},
+		"Google Scholar": {
+			"description": "Links card.",
+			"style": { "fill": "#c86e39ff", "fontStyle": "italic" }
+		},
+		"Linkedin": {
+			"description": "Links card.",
+			"style": { "fill": "#c86e39ff", "fontStyle": "italic" }
+		},
+		"Github": {
+			"description": "Links card.",
+			"style": { "fill": "#c86e39ff", "fontStyle": "italic" }
 		}
 	}
 }
